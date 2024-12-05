@@ -4,7 +4,7 @@
 
 <ul>
   <li>I'm Lama Jamal Issa</li>
-  <li>I'm a frontend developer</li>
+  <li>I'm a Frontend Developer</li>
 </ul>
 
 ###
