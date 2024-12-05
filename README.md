@@ -34,12 +34,14 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" style="width: 70px; height: 70px; object-fit: contain;" alt="Bootstrap logo" />
   <img src="https://blog.kakaocdn.net/dn/GHEla/btqvzuE3wEa/fp3YsDUk6UutFSTo8p9Sxk/img.png" style="width: 70px; height: 70px; object-fit: contain;" alt="jQuery logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 70px; height: 70px; object-fit: contain;" alt="JavaScript logo" />
-  <img src="https://media.licdn.com/dms/image/D4E12AQEYqTrWsLnG4A/article-cover_image-shrink_720_1280/0/1702616887440?e=2147483647&v=beta&t=fiv7mCqZUx5JaiuZrTb9ID1sbO7GrWWSU5EKXopH2mE" style="width: 70px; height: 70px; object-fit: contain;" alt="PHP logo" />
+  
   <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F096baapsqqt9fks0us99.png" style="width: 70px; height: 70px; object-fit: contain;" alt="React js logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" style="width: 70px; height: 70px; object-fit: contain;" alt="Redux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 70px; height: 70px; object-fit: contain;" alt="TypeScript logo" />
   <img src="https://www.digitality.es/img-articulos/ampliadas/que-es-nextjs-y-para-que-sirve-1-1697560678.jpg" style="width: 70px; height: 70px; object-fit: contain;" alt="Next.js logo" />
   <img src="https://blog.kakaocdn.net/dn/clKLGN/btssVHZpfKM/m4IGU07S6dAw8j3cNdKobk/img.png" style="width: 70px; height: 70px; object-fit: contain;" alt="React Native logo" />
+
+<img src="https://media.licdn.com/dms/image/D4E12AQEYqTrWsLnG4A/article-cover_image-shrink_720_1280/0/1702616887440?e=2147483647&v=beta&t=fiv7mCqZUx5JaiuZrTb9ID1sbO7GrWWSU5EKXopH2mE" style="width: 70px; height: 70px; object-fit: contain;" alt="PHP logo" />
 </div>
 
 
