@@ -32,6 +32,7 @@
   <img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" style="width: 70px; height: 70px; object-fit: contain;" alt="HTML logo" />
   <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230803130837/CSS.webp" style="width: 70px; height: 70px; object-fit: contain;" alt="CSS logo" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" style="width: 70px; height: 70px; object-fit: contain;" alt="Bootstrap logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt-HrOi-H6bWawkFaOvkjxxIeFf1PfV5Vu0J7_XHRpCmj1ICjQF4TA60c9IEdJo5jxik&usqp=CAU" style="width: 70px; height: 70px; object-fit: contain;" alt="Tailwind CSS logo" />
   <img src="https://blog.kakaocdn.net/dn/GHEla/btqvzuE3wEa/fp3YsDUk6UutFSTo8p9Sxk/img.png" style="width: 70px; height: 70px; object-fit: contain;" alt="jQuery logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 70px; height: 70px; object-fit: contain;" alt="JavaScript logo" />
   
