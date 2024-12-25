@@ -3,8 +3,8 @@
 ###
 
 <ul>
-  <li>I'm Lama Jamal Issa</li>
-  <li>I'm a Frontend Developer &   Mobile App Developer</li>
+  <li>I'm Lama Issa</li>
+  <li>I'm a Frontend Developer &   Mobile App Developer 💻 </li>
 </ul>
 
 ###
